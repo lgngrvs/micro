@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    display: block;
+    margin: 30px auto;
+}
+
+.thought {
+    display: block;
+    margin: auto; 
+    width: 300px;
+    padding: 40px;
+}
+
