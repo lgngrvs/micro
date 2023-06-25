@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<atom:link href="http://micro.logangraves.com/" rel="self" type="application/rss+xml" />
+<atom:link href="https://micro.logangraves.com/rss.xml" rel="self" type="application/rss+xml" />
 <title>micropoasting</title>
 <link>https://micro.logangraves.com/</link>
 <description>:D</description>
@@ -11,7 +11,7 @@
     <link>https://micro.logangraves.com/</link>
     <guid isPermaLink="false">4</guid>
     <pubDate>Sun, 25 Jun 2023 12:00:00 GMT</pubDate>
-    <description><![CDATA[the human condition is to recieve meaning from others, from society<br></br>
+    <description><![CDATA[the human condition is to recieve meaning from others, from society<br>
                 the philosphical condition is to generalize from one's own experiences]]>
 </description>
 </item>
@@ -32,10 +32,10 @@
 <item>
     <title>new thought just dropped</title>
     <link>https://micro.logangraves.com/</link>
-    <gui isPermaLink="false"d>1</guid>
+    <gui isPermaLink="false">1</guid>
     <pubDate>Mon, 12 Jun 2023 12:00:00 GMT</pubDate>
     <description><![CDATA[conspiracy theories are just misguided attempts to understand an incomprehensible world, to make meaning in a meaningless world;
-            <br></br>covid was not real actually]]>
+            <br>covid was not real actually]]>
             </description>
 </item>
 </channel>
