@@ -13,6 +13,7 @@ h1 {
 
 
 .thought-embed {
-    max-width: 215px;
-    margin: auto;
+    width: 80%;
+    display:block;
+    margin:auto;
 } 
