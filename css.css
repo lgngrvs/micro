@@ -11,3 +11,8 @@ h1 {
     padding: 40px;
 }
 
+
+.thought-embed {
+    max-width: 215px;
+    margin: auto;
+} 
